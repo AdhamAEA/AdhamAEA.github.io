@@ -249,6 +249,11 @@
         font-family: sans-serif;
         font-weight: bold;
     }
+    a.hover:hover{
+
+        color: purple;
+    }
+
 }
 
 
