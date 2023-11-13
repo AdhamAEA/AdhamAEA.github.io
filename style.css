@@ -134,6 +134,9 @@
 
         color: purple;
     }
+    p.faint{
+        color: gray;
+    }
 }
 @media screen and (min-width: 601px){
     body {
@@ -256,6 +259,9 @@
     a.hover:hover{
 
         color: purple;
+    }
+    p.faint{
+        color: gray;
     }
 
 }
